@@ -1,20 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-👁️❤️  OLHO APAIXONADO  -  versão ASCII (roda direto no terminal)
-------------------------------------------------------------------
-Um olho apaixonado, desenhado só com caracteres da tabela ASCII.
-A câmera mergulha dentro do globo ocular, atravessa a pupila e lá no
-fundo existe um coração pulsando.
 
-Sem dependências! Só Python 3.
-
-    python olho_apaixonado_ascii.py            -> colorido (truecolor)
-    python olho_apaixonado_ascii.py --mono     -> só ASCII, sem cores
-
-Dicas: use um terminal grande (ex.: 120x40) e fonte pequena.
-Ctrl+C para sair.
-"""
 import math
 import os
 import random
